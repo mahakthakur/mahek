@@ -1,0 +1,22 @@
+.heading{
+    color: palevioletred;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: wavy;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    /* word-spacing: 50px;
+    letter-spacing: 10px;
+
+} */
+ line-height: 40px;
+ font-weight: bold;
+ font-size: 25px;
+ 
+ 
+
+}
