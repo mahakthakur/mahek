@@ -20,9 +20,8 @@ int main(){
      }else{
       cout<<"it is not armstrong";
      }
-     
-      
-   }else{
+    
+     }else{
       cout<<"it is invalid number";
    }
 
