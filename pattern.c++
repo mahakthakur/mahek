@@ -1,9 +1,12 @@
 #include<iostream>
 using namespace std;
-int main(){
-    for(int i=1; i<=3; i++){
-        for(int j=1; j<=i; j++){
-            cout<<"*";
+int main(){// for natural numbers
+    
+    for(char i='a'; i<='c'; i++){
+        for(char j='a'; j<=i; j++){
+            cout<<i<<"\t";
+            
+            
             
         }
         cout<<"\n";
