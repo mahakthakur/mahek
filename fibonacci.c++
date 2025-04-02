@@ -5,7 +5,7 @@ int main(){
    int  b=1;
 int c;
 cout<<a<<"\t"<<b<<"\t";
-for(int i=1; i<=4; i++){
+for(int i=1; i<=15; i++){
     c=a+b;
     a=b;
     b=c;

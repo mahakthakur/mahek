@@ -2,14 +2,16 @@
 using namespace std;
 int main()
 {
-    int rs1=0, rs2=0, rs5=0, rs10=0, rs20=0, rs50=0, rs100=0, rs200=0, rs500=0;
+    int  rs5=0, rs10=0, rs20=0, rs50=0, rs100=0, rs200=0, rs500=0;
     int amount;
     cout<<"enter amount";
     cin>>amount;
+   
     if(amount>=500)
     {
         rs500= amount/500;
         amount=amount%500;
+
     }
     if(amount>=200)
     {
