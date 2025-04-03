@@ -11,6 +11,8 @@ int main(){
     }
     cout<<"\n stored data";
     for(int i=0;i<s;i++){
+        if(arr[i]%2==0){
         cout<<arr[i]<<"\t";
+        }
     }
 }
